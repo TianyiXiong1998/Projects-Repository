@@ -1,0 +1,7 @@
+{
+  "name":"CS567 Project",
+  "department":"pages/department.json",
+  "pages": [
+    {"type":"page", "title":"An Efficient Language Learning Method-VR Vocabulary Crossword Puzzle Game", "menu":"CS567 Project", "file":"pages/home.md"}
+  ]
+}

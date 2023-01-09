@@ -1,0 +1,95 @@
+[1] M.Alfadil.Effectiveness of virtual reality game in foreign language vocabulary acquisition. Computers & Education, 153:103893, 2020.
+Link: https://www.sciencedirect.com/science/article/pii/S0360131520300920
+
+[2] C.M.Anderson-Cook.Regression and anova:an integrated approach using sas software. The American Statistician, 58(2):172, 2004.
+Link: https://www.tandfonline.com/doi/abs/10.1080/07408170490507855
+
+[3] A. Asgari and G. B. Mustapha. The type of vocabulary learning strategies used by esl students in university putra malaysia. English language teaching, 4(2):84, 2011.
+Link: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.1031.5110&rep=rep1&type=pdf
+
+[4] M.Billinghurst,J.LaViola,andA.Lecuyer.2012 ieee symposiumon 3d user interfaces (3dui 2012). 2012.
+(No access)
+
+[5] S. Bouvier-Zappa, O. Dionne, and D. Hunt. Advanced use cases for animation rigging in unity. In ACM SIGGRAPH 2019 Studio, pp. 1–2. 2019.
+Link: https://dl.acm.org/doi/abs/10.1145/3306306.3328748
+
+[6] S. Chakraborty and R. Chowdhury. Sequential experimental design based generalised anova. Journal of Computational Physics, 317:15– 32, 2016.
+Link: https://www.sciencedirect.com/science/article/pii/S0021999116300882
+
+[7] L.-J. Chang, J.-C. Yang, and F.-Y. Yu. Development and evaluation of multiple competitive activities in a synchronous quiz game system. Innovations in Education and Teaching International, 40(1):16–26, 2003.
+Link: https://www.tandfonline.com/doi/abs/10.1080/1355800032000038840
+(No access)
+
+[8] D. M. Chun. Computer applications in second language acquisition: Foundations for teaching, testing and research, 2003.
+Link: https://www.jstor.org/stable/1193066?seq=1#metadata_info_tab_contents
+
+[9] A.Derakhshan and E.D.Khatir.The effects of using games on english vocabulary learning. Journal of Applied Linguistics and Language Research, 2(3):39–47, 2015.
+Link: http://jallr.ir/index.php/JALLR/article/view/40
+
+
+[10] N.S.Dewi and A.Kurniawan.The effect of scramble game towards the ability of composing sentences for students with intellectual disability. Journal of ICSAR, 1(1):81–84, 2017.
+Link: http://journal2.um.ac.id/index.php/icsar/article/view/382
+
+[11] W. C. Driscoll. Robustness of the anova and tukey-kramer statistical tests. Computers Industrial Engineering, 31(1):265–268, 1996. Proceedings of the 19th International Conference on Computers and
+Industrial Engineering. doi: 10.1016/0360-8352(96)00127-1
+Link: https://www.sciencedirect.com/science/article/pii/0360835296001271
+
+[12] W. C. Driscoll. Robustness of the anova and tukey-kramer statistical
+tests. Computers & Industrial Engineering, 31(1-2):265–268, 1996. 
+Link: https://www.sciencedirect.com/science/article/pii/0360835296001271
+
+[13] A.Ebrahimi, T.West, M.Schoen, and D.Urquidi. Unity:editorvr. In ACM SIGGRAPH 2017 Real Time Live!, pp. 27–27. 2017.
+Link: https://dl.acm.org/doi/pdf/10.1145/3098333.3098918
+
+[14] I. A. Fata, H. Mawaddah, and U. Kasim. “down: Very important, across: Modal verb of ability”: Crossword puzzle in teaching english. In Proceedings of English Education International Conference, vol. 1,
+pp. 290–294, 2016.
+Link: http://eeic.unsyiah.ac.id/proceedings/index.php/eeic/article/view/60
+
+[15] P. Y. Gu. Vocabulary learning in a second language: Person, task, context and strategies. TESL-EJ, 7(2):1–25, 2003.
+Link: https://www.tesl-ej.org/wordpress/issues/volume7/ej26/ej26a4/
+(No access)
+
+[16] M.A.Guimaraes. Game development with game maker, flash and unity. In Proceedings of the 49th Annual Southeast Regional Conference, pp. 1–1, 2011.
+Link: https://dl.acm.org/doi/abs/10.1145/2016039.2016049
+
+[17] H.-C. Hung, S. S.-C. Young, and C.-P. Lin. Constructing the face-to-face collaborative game-based interacted environment for portable devices in english vocabulary acquisition. 2009.
+Link: https://doi.dx.org/10.22318/cscl2009.1.370
+
+[18] K. Inkpen, K. S. Booth, M. Klawe, and R. Upitis. Playing together beats playing apart, especially for girls. 1995.
+Link: https://45.55.127.102/bitstream/1/4171/1/177-181.pdf
+
+[19] D. P. Inman, K. Loge, and J. Leavens. Vr education and rehabilitation. Commun. ACM, 40(8):53–58, aug 1997. doi: 10.1145/257874.257886 
+Link: https://dl.acm.org/doi/pdf/10.1145/257874.257886
+
+[20] D.P.Inman, K.Loge, and J.Leavens. Vr education and rehabilitation. Communications of the ACM, 40(8):53–58, 1997.
+
+[21] X.Jiang. English Education in China: Initiation, Evolution, and Impact a Case Study of College English Test (CET-4/6) and College English Education. PhD thesis, State University of New York at Buffalo, 2020. 
+Link: https://www.proquest.com/docview/2423778177/fulltextPDF/EAC4C1674890449FPQ
+
+[22] X. Jing and W. Jing. Effectiveness of mobile learning in college english vocabulary teaching under multimodal environment. In Proceedings of the 10th International Conference on E-Education, E-Business, E-
+Management and E-Learning, pp. 93–97, 2019.
+Link: https://dl.acm.org/doi/abs/10.1145/3306500.3306558
+
+[23] C.-P. Lin, S. S.-C. Young, H.-C. Hung, et al. Implementation of the scrabble game on the mobile devices to increase english vocabulary acquisition. 2007.
+Link: https://repository.isls.org/bitstream/1/3379/1/438-440.pdf
+
+[24] S. Marks, D. White, and M. Singh. Getting up your nose: A virtual reality education tool for nasal cavity anatomy. In SIGGRAPH Asia 2017 symposium on education, pp. 1–7, 2017.
+Link: https://dl.acm.org/doi/abs/10.1145/3134368.3139218
+
+[25] G.Singh, A.Mantri, O.Sharma, and R.Kaur. Virtual reality learning environment for enhancing electronics engineering laboratory experience. Computer Applications in Engineering Education, 29(1):229– 243, 2021.
+Link: https://doi.org/10.1002/cae.22333
+
+[26] S. N. Sitompul and J. Juliana. The effect of puzzle game on students’vocabulary achievement for non-english department students. Jurnal Mahasiswa Fakultas Ilmu Sosial dan Kependidikan, 1(1):181– 191, 2020.
+Link: http://e-journal.potensi-utama.ac.id/ojs/index.php/FISK/article/view/698
+
+[27] L.St, S.Wold, etal. Analysis of variance(anova). Chemometrics and intelligent laboratory systems, 6(4):259–272, 1989.
+Link: https://doi.org/10.1016/0169-7439(89)80095-4
+
+[28] A.M.Sykes. Doing anova calculations on the computer. SIGAPLAPL Quote Quad, 25(4):206–212, jun 1995. doi: 10.1145/206944.207007 
+Link: https://dl.acm.org/doi/abs/10.1145/206944.207007
+
+[29] O.Yavoruk. Teaching physics using equidistant ar/vr-projections. In Proceedings of the 2019 The 3rd International Conference on Digital Technology in Education, pp. 48–51, 2019.
+Link: https://dl.acm.org/doi/abs/10.1145/3369199.3369242
+
+[30] L.Ying, Z.Jiong, S.Wei, W.Jingchun, and G.Xiaopeng. Vrex:Virtual reality education expansion could help to improve the class experience (vrex platform and community for vr based education). In 2017 IEEE Frontiers in Education Conference (FIE), pp. 1–5. IEEE, 2017.
+Link: https://ieeexplore.ieee.org/abstract/document/8190660
